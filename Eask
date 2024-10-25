@@ -2,12 +2,12 @@
          "0.1.0"
          "A Souls-like tutorial game")
 
-(website-url "https://escritoire.software/emacs-souls")
-(keywords "games" "multimedia" "help")
+(website-url "https://github.com/sltong/emacs-souls")
+(keywords "games" "multimedia")
 
 (package-file "souls.el")
 
-(script "test" "echo \"Error: no test specified\" && exit 1")
+(script "test" "test/souls-test.el")
 
 (source "gnu")
 (source "melpa")

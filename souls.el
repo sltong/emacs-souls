@@ -55,7 +55,7 @@
 (defgroup souls nil
   "Prepare to Vi."
   :link '(info-link :tag "Info Manual" "(souls)")
-  :link '(url-link :tag "Website" "https://escritoire.software/emacs-souls")
+  :link '(url-link :tag "Website" "https://github.com/sltong/emacs-souls")
   :group 'games
   :group 'help
   :prefix "souls-")
